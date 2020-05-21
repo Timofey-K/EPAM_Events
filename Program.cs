@@ -27,18 +27,18 @@ namespace events
 			{
 				person.OnCome += Person_OnCome;
 				person.OnLeave += Person_OnLeave;
-				sayLeaveDeligate += person.SayBay;		
+						
 			}
 
 			foreach (Person person in persons)
 			{				
 				person.GoToOfice();
 				sayHelloDeligate += person.SayHello;
+				sayLeaveDeligate += person.SayBay;
 			}
 
 			foreach (Person person in persons)
-			{
-				
+			{				
 				sayLeaveDeligate -= person.SayBay;
 				person.GoHome();
 
