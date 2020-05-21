@@ -1,0 +1,13 @@
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.csprojAssemblyReference.cache
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.csproj.CoreCompileInputs.cache
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.AssemblyInfoInputs.cache
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.AssemblyInfo.cs
+C:\Users\timca\source\repos\events\bin\Debug\netcoreapp3.1\events.exe
+C:\Users\timca\source\repos\events\bin\Debug\netcoreapp3.1\events.deps.json
+C:\Users\timca\source\repos\events\bin\Debug\netcoreapp3.1\events.runtimeconfig.json
+C:\Users\timca\source\repos\events\bin\Debug\netcoreapp3.1\events.runtimeconfig.dev.json
+C:\Users\timca\source\repos\events\bin\Debug\netcoreapp3.1\events.dll
+C:\Users\timca\source\repos\events\bin\Debug\netcoreapp3.1\events.pdb
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.dll
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.pdb
+C:\Users\timca\source\repos\events\obj\Debug\netcoreapp3.1\events.genruntimeconfig.cache
